@@ -8,7 +8,7 @@ This repository contains a Blender file (Donut.blend and #d-Hologramm.blend) tha
 
 Blender 3D Model Repository
 
-Downloading the Blender File
+**Downloading the Blender File**
 
 To download the Blender file from this repository, follow these steps:
 
@@ -26,7 +26,7 @@ Alternatively, you can clone the repository using Git:
 
 git clone https://github.com/Filza-Anis/Blender-3D-model.git
 
-Opening the Blender File
+**Opening the Blender File**
 
 Once you have downloaded the file, follow these steps to open it:
 
@@ -38,7 +38,7 @@ Navigate to the location where you saved your_file.blend.
 
 Select the file and click Open Blender File.
 
-System Requirements
+**System Requirements**
 
 Ensure your system meets the following requirements for best performance:
 
@@ -50,7 +50,7 @@ GPU: Recommended for faster rendering
 
 RAM: Minimum 8GB (16GB or more recommended for complex scenes)
 
-Troubleshooting
+**Troubleshooting**
 
 File Not Opening: Ensure you are using a compatible Blender version.
 
