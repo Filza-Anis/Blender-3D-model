@@ -1,60 +1,44 @@
 # Blender Project README
 
-Overview
+## 📌 Overview  
+This repository contains Blender files (`Donut.blend` and `#d-Hologramm.blend`) that can be used for 3D modeling, animation, or rendering.
 
-This repository contains a Blender file (Donut.blend and #d-Hologramm.blend) that can be downloaded and used for 3D modeling, animation, or rendering.
+## 📂 Repository Link  
+[Blender 3D Model Repository](https://github.com/Filza-Anis/Blender-3D-model)  
 
-# Repository Link
+## 📥 Downloading the Blender File  
+To download the Blender file from this repository, follow these steps:  
+1. Navigate to the repository on **GitHub**.  
+2. Locate the `.blend` file (`Donut.blend` or `#d-Hologramm.blend`).  
+3. Click on the file to open its preview.  
+4. Click the **Download** button or right-click and select **Save As...**  
+5. Save the file to your local computer.  
 
-Blender 3D Model Repository
-
-**Downloading the Blender File**
-
-To download the Blender file from this repository, follow these steps:
-
-Navigate to the repository on GitHub.
-
-Locate the your_file.blend file in the repository.
-
-Click on the file to open its preview.
-
-Click the Download button or right-click and select Save As...
-
-Save the file to your local computer.
-
-Alternatively, you can clone the repository using Git:
-
+Alternatively, you can clone the repository using Git:  
+```sh
 git clone https://github.com/Filza-Anis/Blender-3D-model.git
+```
 
-**Opening the Blender File**
+## 📂 Opening the Blender File
+Once downloaded, follow these steps to open the file:
+1. Open Blender (Download from blender.org if you haven't already).
+2. Click File → Open.
+3. Navigate to the location where you saved the .blend file.
+4. Select the file and click Open Blender File.
 
-Once you have downloaded the file, follow these steps to open it:
+## 💻 System Requirements
+Ensure your system meets the following requirements for the best performance:
 
-Open Blender (Download from blender.org if you haven't already).
+| Requirement | Recommended Specification |
+|-------------|---------------------------|
+| Blender Version | 3.x or later |
+| Operating System | Windows, macOS, or Linux |
+| GPU | Recommended for faster rendering |
+| RAM | Minimum 8GB (16GB+ for complex scenes) |
 
-Click File → Open.
-
-Navigate to the location where you saved your_file.blend.
-
-Select the file and click Open Blender File.
-
-**System Requirements**
-
-Ensure your system meets the following requirements for best performance:
-
-Blender Version: 3.x or later (recommended)
-
-Operating System: Windows, macOS, or Linux
-
-GPU: Recommended for faster rendering
-
-RAM: Minimum 8GB (16GB or more recommended for complex scenes)
-
-**Troubleshooting**
-
-File Not Opening: Ensure you are using a compatible Blender version.
-
-Missing Textures: If textures are missing, check the File Paths settings in Blender.
-
-Slow Performance: Try reducing subdivisions or using Eevee instead of Cycles.
-
+## ⚠️ Troubleshooting
+- 🔹 **File Not Opening**: Ensure you are using a compatible Blender version (3.x or later).
+- 🔹 **Missing Textures**: Check the File Paths settings in Blender.
+- 🔹 **Slow Performance**:
+  - Try reducing subdivisions.
+  - Use Eevee instead of Cycles for faster rendering.
